@@ -1,0 +1,10 @@
+{
+  "name": "star-rating",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "http-server -p 3000"
+  },
+  "author": "MyeongHoonNam <codenmh0822@naver.com>",
+  "license": "MIT"
+}
